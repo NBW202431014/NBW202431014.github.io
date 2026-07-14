@@ -190,3 +190,26 @@ h1{
             color: #ff0000;
             text-decoration: underline;
         }
+        .content-table {
+            width: 80%;
+            margin: 15px auto;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        .content-table th, .content-table td {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        .content-table th {
+            background-color: #d9edf7;
+        }
+        .content-table td {
+            background-color: #ffffff;
+        }
+        .table-section {
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .table-section h2 {
+            text-align: center;
+        }
